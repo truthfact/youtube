@@ -2,3 +2,5 @@
 ---
 [![Youtube精彩视频](https://github.com/truthfact/youtube/raw/master/img/youtube.jpg)](https://www.myoutu.ml)  
 ---
+![](https://github.com/truthfact/youtube/raw/master/img/300x300.jpg)  
+请保存此二维码，可随时扫码访问本网址。
